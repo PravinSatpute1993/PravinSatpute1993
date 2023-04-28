@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I am Pravin Satpute</h1>
+<h1 align="center">Hi 👋, I'm Pravin Satpute</h1>
 <h3 align="center">I am coding enthusiast</h3>
 <img align="right" width=400 alt="coding" src="https://t4.ftcdn.net/jpg/01/62/94/35/360_F_162943505_00ppafZd2xBpH3P98qby2qyqZiirXgnO.jpg"
 
